@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1758555965,,"wq!"
+|2,0,1758557910,,"wq!"
 :qw!
 |2,0,1758132295,,"qw!"
 :qa!
@@ -42,28 +42,34 @@
 |3,0,36,0,1,0,1758132176,"="
 
 # File marks:
-'0  1  13  ~/file4
-|4,48,1,13,1758555965,"~/file4"
-'1  1  0  ~/londongit/file1
-|4,49,1,0,1758132564,"~/londongit/file1"
-'2  5  0  ~/londongit/sai
-|4,50,5,0,1758132564,"~/londongit/sai"
-'3  1  0  ~/londongit/file2
-|4,51,1,0,1758132564,"~/londongit/file2"
+'0  2  16  ~/file60
+|4,48,2,16,1758557910,"~/file60"
+'1  1  13  ~/file4
+|4,49,1,13,1758555965,"~/file4"
+'2  1  0  ~/londongit/file1
+|4,50,1,0,1758132564,"~/londongit/file1"
+'3  5  0  ~/londongit/sai
+|4,51,5,0,1758132564,"~/londongit/sai"
 '4  1  0  ~/londongit/file2
 |4,52,1,0,1758132564,"~/londongit/file2"
-'5  5  3  ~/londongit/sai
-|4,53,5,3,1758132356,"~/londongit/sai"
-'6  5  0  ~/londongit/sai
-|4,54,5,0,1758131849,"~/londongit/sai"
-'7  1  2  ~/londongit/sI
-|4,55,1,2,1758131695,"~/londongit/sI"
-'8  1  0  ~/londongit/sai
-|4,56,1,0,1758131577,"~/londongit/sai"
+'5  1  0  ~/londongit/file2
+|4,53,1,0,1758132564,"~/londongit/file2"
+'6  5  3  ~/londongit/sai
+|4,54,5,3,1758132356,"~/londongit/sai"
+'7  5  0  ~/londongit/sai
+|4,55,5,0,1758131849,"~/londongit/sai"
+'8  1  2  ~/londongit/sI
+|4,56,1,2,1758131695,"~/londongit/sI"
 '9  1  0  ~/londongit/sai
 |4,57,1,0,1758131577,"~/londongit/sai"
 
 # Jumplist (newest first):
+-'  2  16  ~/file60
+|4,39,2,16,1758557910,"~/file60"
+-'  1  0  ~/file60
+|4,39,1,0,1758557837,"~/file60"
+-'  1  13  ~/file4
+|4,39,1,13,1758555965,"~/file4"
 -'  1  13  ~/file4
 |4,39,1,13,1758555965,"~/file4"
 -'  1  0  ~/londongit/file1
@@ -82,10 +88,34 @@
 |4,39,1,0,1758132564,"~/londongit/file2"
 -'  1  0  ~/londongit/file2
 |4,39,1,0,1758132564,"~/londongit/file2"
+-'  1  0  ~/londongit/file1
+|4,39,1,0,1758132564,"~/londongit/file1"
+-'  5  0  ~/londongit/sai
+|4,39,5,0,1758132564,"~/londongit/sai"
+-'  1  0  ~/londongit/file2
+|4,39,1,0,1758132564,"~/londongit/file2"
+-'  1  0  ~/londongit/file2
+|4,39,1,0,1758132564,"~/londongit/file2"
+-'  1  0  ~/londongit/file1
+|4,39,1,0,1758132564,"~/londongit/file1"
+-'  5  0  ~/londongit/sai
+|4,39,5,0,1758132564,"~/londongit/sai"
+-'  1  0  ~/londongit/file2
+|4,39,1,0,1758132564,"~/londongit/file2"
+-'  1  0  ~/londongit/file2
+|4,39,1,0,1758132564,"~/londongit/file2"
 -'  5  3  ~/londongit/sai
 |4,39,5,3,1758132356,"~/londongit/sai"
 -'  5  3  ~/londongit/sai
 |4,39,5,3,1758132356,"~/londongit/sai"
+-'  5  3  ~/londongit/sai
+|4,39,5,3,1758132356,"~/londongit/sai"
+-'  5  3  ~/londongit/sai
+|4,39,5,3,1758132356,"~/londongit/sai"
+-'  5  0  ~/londongit/sai
+|4,39,5,0,1758131849,"~/londongit/sai"
+-'  5  0  ~/londongit/sai
+|4,39,5,0,1758131849,"~/londongit/sai"
 -'  5  0  ~/londongit/sai
 |4,39,5,0,1758131849,"~/londongit/sai"
 -'  5  0  ~/londongit/sai
@@ -102,6 +132,42 @@
 |4,39,1,0,1758131709,"~/londongit/sai"
 -'  1  0  ~/londongit/sai
 |4,39,1,0,1758131709,"~/londongit/sai"
+-'  1  0  ~/londongit/sai
+|4,39,1,0,1758131709,"~/londongit/sai"
+-'  1  0  ~/londongit/sai
+|4,39,1,0,1758131709,"~/londongit/sai"
+-'  1  0  ~/londongit/sai
+|4,39,1,0,1758131709,"~/londongit/sai"
+-'  1  0  ~/londongit/sai
+|4,39,1,0,1758131709,"~/londongit/sai"
+-'  1  0  ~/londongit/sai
+|4,39,1,0,1758131709,"~/londongit/sai"
+-'  1  0  ~/londongit/sai
+|4,39,1,0,1758131709,"~/londongit/sai"
+-'  1  2  ~/londongit/sI
+|4,39,1,2,1758131695,"~/londongit/sI"
+-'  1  2  ~/londongit/sI
+|4,39,1,2,1758131695,"~/londongit/sI"
+-'  1  2  ~/londongit/sI
+|4,39,1,2,1758131695,"~/londongit/sI"
+-'  1  2  ~/londongit/sI
+|4,39,1,2,1758131695,"~/londongit/sI"
+-'  1  2  ~/londongit/sI
+|4,39,1,2,1758131695,"~/londongit/sI"
+-'  1  2  ~/londongit/sI
+|4,39,1,2,1758131695,"~/londongit/sI"
+-'  1  2  ~/londongit/sI
+|4,39,1,2,1758131695,"~/londongit/sI"
+-'  1  2  ~/londongit/sI
+|4,39,1,2,1758131695,"~/londongit/sI"
+-'  1  2  ~/londongit/sI
+|4,39,1,2,1758131695,"~/londongit/sI"
+-'  1  2  ~/londongit/sI
+|4,39,1,2,1758131695,"~/londongit/sI"
+-'  1  2  ~/londongit/sI
+|4,39,1,2,1758131695,"~/londongit/sI"
+-'  1  2  ~/londongit/sI
+|4,39,1,2,1758131695,"~/londongit/sI"
 -'  1  2  ~/londongit/sI
 |4,39,1,2,1758131695,"~/londongit/sI"
 -'  1  2  ~/londongit/sI
@@ -134,6 +200,22 @@
 |4,39,1,0,1758131577,"~/londongit/sai"
 -'  1  0  ~/londongit/sai
 |4,39,1,0,1758131577,"~/londongit/sai"
+-'  1  0  ~/londongit/sai
+|4,39,1,0,1758131577,"~/londongit/sai"
+-'  1  0  ~/londongit/sai
+|4,39,1,0,1758131577,"~/londongit/sai"
+-'  1  0  ~/londongit/sai
+|4,39,1,0,1758131577,"~/londongit/sai"
+-'  1  0  ~/londongit/sai
+|4,39,1,0,1758131577,"~/londongit/sai"
+-'  1  17  ~/londongit/sai
+|4,39,1,17,1758131159,"~/londongit/sai"
+-'  1  17  ~/londongit/sai
+|4,39,1,17,1758131159,"~/londongit/sai"
+-'  1  17  ~/londongit/sai
+|4,39,1,17,1758131159,"~/londongit/sai"
+-'  1  17  ~/londongit/sai
+|4,39,1,17,1758131159,"~/londongit/sai"
 -'  1  17  ~/londongit/sai
 |4,39,1,17,1758131159,"~/londongit/sai"
 -'  1  17  ~/londongit/sai
@@ -150,96 +232,14 @@
 |4,39,1,16,1758130929,"~/londongit/sai"
 -'  1  16  ~/londongit/sai
 |4,39,1,16,1758130929,"~/londongit/sai"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
--'  1  2  ~/londongit/mii
-|4,39,1,2,1758129407,"~/londongit/mii"
+-'  1  16  ~/londongit/sai
+|4,39,1,16,1758130929,"~/londongit/sai"
+-'  1  16  ~/londongit/sai
+|4,39,1,16,1758130929,"~/londongit/sai"
+-'  1  16  ~/londongit/sai
+|4,39,1,16,1758130929,"~/londongit/sai"
+-'  1  16  ~/londongit/sai
+|4,39,1,16,1758130929,"~/londongit/sai"
 -'  1  2  ~/londongit/mii
 |4,39,1,2,1758129407,"~/londongit/mii"
 -'  1  2  ~/londongit/mii
@@ -266,6 +266,13 @@
 |4,39,1,2,1758129407,"~/londongit/mii"
 
 # History of marks within files (newest to oldest):
+
+> ~/file60
+	*	1758557895	0
+	"	2	16
+	^	2	17
+	.	2	16
+	+	2	16
 
 > ~/file4
 	*	1758555956	0
